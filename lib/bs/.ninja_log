@@ -1,0 +1,12 @@
+# ninja log v5
+0	11	1509389796	ReactTemplate.cmi	dbcb559fc0e03241
+0	24	1509389796	src/page.mlast	d02e4b15cb459cb
+0	24	1509389796	src/index.mlast	e42ba36f14bccc29
+24	28	1509389796	src/page.mlast.d	4148ad80e0dfdbfa
+24	28	1509389796	src/index.mlast.d	e5bbe90644ed4db
+0	18	1509389796	src/page-ReactTemplate.cmj	bbfb16513bacafc6
+0	18	1509389796	/Users/meiko/code/my-react-app/test-react-app/src/page.bs.js	bbfb16513bacafc6
+0	18	1509389796	src/page-ReactTemplate.cmi	bbfb16513bacafc6
+18	29	1509389796	src/index-ReactTemplate.cmj	ef90f5b75c9106e8
+18	29	1509389796	/Users/meiko/code/my-react-app/test-react-app/src/index.bs.js	ef90f5b75c9106e8
+18	29	1509389796	src/index-ReactTemplate.cmi	ef90f5b75c9106e8
